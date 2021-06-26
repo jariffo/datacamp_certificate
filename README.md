@@ -1,10 +1,5 @@
 # datacamp_certificate
 
-## Communicating with Data in the Tidyverse
+## Reporting with R Markdown
 
-
-[Visualización](https://github.com/jariffo/datacamp_certificate/blob/main/certificate-Communicating_with_Data_in_the_Tidyverse.pdf)
-
-![](https://github.com/jariffo/datacamp_certificate/blob/main/certificate-Communicating_with_Data_in_the_Tidyverse.pdf)
-
-(https://github.com/jariffo/datacamp_certificate/blob/main/certificate-Communicating_with_Data_in_the_Tidyverse.pdf)
+![](certificate-reporting_with_R_Markdown.png)
